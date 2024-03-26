@@ -19,13 +19,27 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Pizzaria-02J
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: LLPN
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O projeto deve montar lojas de pizza Pizza-Express que não teriam
+nenhum espaço de varejo, pois a sua função é somente receber
+ordens, preparar e entregar as pizzas.
+A loja deverá ser localizada o mais próximo do cliente receberá a
+ordem através de uma central, processará, e entregará a ordem
+dentro de 10 ou 15 minutos da entrada do pedido.
+Há dois projetos do desenvolvimento do software identificados
+aqui:
+primeiro é um sistema de software para o atendimento do pedido e
+para encontrar localização da fábrica da pizza mais próxima do
+cliente para fazer a entrega; e
+segundo é um sistema de software para suportar operações da fábrica
+de pizzas.
+Importante: Dá equipe se exigem profissionalismo e colaboração
+mútua.
 
 # Documentação
 
