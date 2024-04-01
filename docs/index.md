@@ -30,7 +30,7 @@
 * Gabriel Nassa
 * Lorenzo Tadeu
 * Lucas Crepalde
-* Pedro Carvalhp
+* Pedro Carvalho
 
 
 
@@ -39,7 +39,13 @@
 *O projeto deve montar lojas de pizza Pizza-Express que não teriam nenhum espaço de varejo, pois a sua função é somente receber ordens, preparar e entregar as pizzas. A loja deverá ser localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem dentro de 10 ou 15 minutos da entrada do pedido. Há dois projetos do desenvolvimento do software identificados aqui: primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; e segundo é um sistema de software para suportar operações da fábrica de pizzas. Importante: Dá equipe se exigem profissionalismo e colaboração mútua.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+Registro de Pedidos;
+Localização Loja mais Proxima*;
+Processo do Pedidos;
+Tempo de Entrega;
+Desempenho;
+Segurança
 
 # Diagrama de Atividades
 
