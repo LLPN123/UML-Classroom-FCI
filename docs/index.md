@@ -48,8 +48,8 @@ Desempenho;
 Segurança
 
 # Diagrama de Atividades
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/b10446ab-efc5-4d04-a57c-331fdedebc4d)
 
-<h1><a href = "https://github.com/LLPN123/UML-Classroom-FCI.wiki.git">Diagrama de Atividade</a></h1>
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
