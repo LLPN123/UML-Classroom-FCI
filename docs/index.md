@@ -49,7 +49,7 @@ Segurança
 
 # Diagrama de Atividades
 
-<a href = "https://github.com/LLPN123/UML-Classroom-FCI.wiki.git">Diagrama de Atividade</a>
+<h1><a href = "https://github.com/LLPN123/UML-Classroom-FCI.wiki.git">Diagrama de Atividade</a></h1>
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
