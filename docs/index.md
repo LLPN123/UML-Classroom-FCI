@@ -49,8 +49,7 @@ Segurança
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
-
+<a href = "https://github.com/LLPN123/UML-Classroom-FCI.wiki.git">Diagrama de Atividade</a>
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
