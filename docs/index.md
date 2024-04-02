@@ -52,7 +52,7 @@ Segurança
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/c34b5ee9-627c-4aa4-9927-7e4e04ddf916)
 
 # Descrição dos Casos de Uso
 
