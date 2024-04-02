@@ -48,7 +48,7 @@ Desempenho;
 Segurança
 
 # Diagrama de Atividades
-![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/b10446ab-efc5-4d04-a57c-331fdedebc4d)
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/1e243931-5b66-4965-b7de-a83a263791ed)
 
 # Diagrama de Casos de Uso
 
