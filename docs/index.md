@@ -37,12 +37,12 @@
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
-Registro de Pedidos;
-Localização Loja mais Proxima*;
-Processo do Pedidos;
-Tempo de Entrega;
-Desempenho;
-Segurança
+Registro de Pedidos (Requisito Funcional);<br>
+Localização Loja mais Proxima (Requisito Funcional);<br>
+Processo do Pedidos (Requisito Funcional);<br>
+Tempo de Entrega (Requisito Funcional) ;<br>
+Desempenho (Requisito Não-Funcional);<br>
+Segurança (Requisito Não-Funcional)
 
 # Diagrama de Atividades
 ![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/1e243931-5b66-4965-b7de-a83a263791ed)
@@ -53,7 +53,8 @@ Segurança
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/a7b4b66a-39bd-4856-8eb9-156e25d5475d)
+
 
 # Diagrama de Sequência
 
