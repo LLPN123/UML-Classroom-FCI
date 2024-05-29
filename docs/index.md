@@ -59,7 +59,7 @@ Segurança (Requisito Não-Funcional)
 # Diagrama de Sequência
 
 ![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/2d909007-112f-49c8-bc65-a547ce82a213)
-![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/5d581bdd-e0b7-4efd-80e9-f6e5d6fb611e)
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/eeb298fb-0290-42cd-8a3f-8314470fd2a1)
 
 
 
