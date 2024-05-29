@@ -77,8 +77,12 @@ Segurança (Requisito Não-Funcional)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/c4f11456-34b7-4f7a-a878-a268d8b7f031)
+
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.);
+FOWLER, M. UML Essencial: Um Breve Guia para Linguagem Padrão. 3ª. ed, Porto Alegre: Bookman 2011;
+BEZERRA, E. Princípios de análise e projeto de sistemas com UML. 2ª ed. Rio de Janeiro: Elsevier; 
+
