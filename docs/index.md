@@ -58,15 +58,22 @@ Segurança (Requisito Não-Funcional)
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/2d909007-112f-49c8-bc65-a547ce82a213)
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/5d581bdd-e0b7-4efd-80e9-f6e5d6fb611e)
+
+
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/00b23ca0-4f6b-4a0d-8ddb-5fec7a579bac)
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/f8f096d1-c314-489c-b826-55fd594a84d6)
+
+
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/LLPN123/UML-Classroom-FCI/assets/162384576/7addf08d-a13e-492d-981c-6cf9cea9e45b)
+
 
 # Diagrama de Implantação
 
